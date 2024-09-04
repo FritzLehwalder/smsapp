@@ -1,4 +1,3 @@
-# SMSAPP
 ![smsappimage](https://github.com/FritzLehwalder/smsapp/blob/main/smsapp.png)
 
 A CLI python app for communicating via MMS/SMS. Uses an email server for SMTP and IMAP integration.\
